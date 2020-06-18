@@ -1,0 +1,25 @@
+{
+  "webappApp": {
+    "wishList": {
+      "home": {
+        "title": "Wish Lists",
+        "createLabel": "Wish List erstellen",
+        "createOrEditLabel": "Wish List erstellen oder bearbeiten",
+        "notFound": "No Wish Lists found"
+      },
+      "created": "Wish List erstellt mit ID {{ param }}",
+      "updated": "Wish List aktualisiert mit ID {{ param }}",
+      "deleted": "Wish List gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Wish List {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Wish List"
+      },
+      "title": "Title",
+      "restricted": "Restricted",
+      "product": "Product",
+      "customer": "Customer"
+    }
+  }
+}

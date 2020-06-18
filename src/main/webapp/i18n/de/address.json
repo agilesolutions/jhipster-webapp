@@ -1,0 +1,27 @@
+{
+  "webappApp": {
+    "address": {
+      "home": {
+        "title": "Addresses",
+        "createLabel": "Address erstellen",
+        "createOrEditLabel": "Address erstellen oder bearbeiten",
+        "notFound": "No Addresses found"
+      },
+      "created": "Address erstellt mit ID {{ param }}",
+      "updated": "Address aktualisiert mit ID {{ param }}",
+      "deleted": "Address gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Address {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Address"
+      },
+      "address1": "Address 1",
+      "address2": "Address 2",
+      "city": "City",
+      "postcode": "Postcode",
+      "country": "Country",
+      "customer": "Customer"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "webappApp": {
+    "category": {
+      "home": {
+        "title": "Categories",
+        "createLabel": "Créer un nouveau Category",
+        "createOrEditLabel": "Créer ou éditer un Category",
+        "notFound": "Aucun Category trouvé"
+      },
+      "created": "Un nouveau Category a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Category avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Category avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Category {{ id }} ?"
+      },
+      "detail": {
+        "title": "Category"
+      },
+      "description": "Description",
+      "sortOrder": "Sort Order",
+      "dateAdded": "Date Added",
+      "dateModified": "Date Modified",
+      "status": "Status",
+      "parent": "Parent",
+      "product": "Product"
+    }
+  }
+}

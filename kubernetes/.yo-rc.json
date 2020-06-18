@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "deploymentType": "kubernetes",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "directoryPath": "../",
+    "appsFolders": [
+      "webapp"
+    ],
+    "clusteredDbApps": [],
+    "consoleOptions": [],
+    "serviceDiscoveryType": false,
+    "dockerRepositoryName": "agilesolutions",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "office",
+    "kubernetesServiceType": "Ingress",
+    "ingressDomain": "xx.xxx.xxx.xxx.nip.io",
+    "istio": true
+  }
+}
